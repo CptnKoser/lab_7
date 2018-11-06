@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVCMovie",
+    "\\MVCMovie\\MVCMovie",
+    "\\MVCMovie\\MVCMovie\\Controllers",
+    "\\MVCMovie\\MVCMovie\\Data",
+    "\\MVCMovie\\MVCMovie\\Migrations",
+    "\\MVCMovie\\MVCMovie\\Views",
+    "\\MVCMovie\\MVCMovie\\Views\\Reviews"
+  ],
+  "SelectedNode": "\\MVCMovie\\MVCMovie\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}
